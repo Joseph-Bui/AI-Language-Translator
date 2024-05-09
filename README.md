@@ -18,6 +18,7 @@ This is a simple language translator application built using Python and Tkinter 
   - openai
   - pygame
   - langdetect
+- In 'translator.py' replace 'YOUR_API_KEY' with a valid OpenAI api key
 
 ## Usage
 
