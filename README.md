@@ -13,7 +13,11 @@ This is a simple language translator application built using Python and Tkinter 
 
 - Python 3.x installed on your system.
 - Required Python packages can be installed via pip:
-  pip install tkinter speech_recognition openai pygame langdetect
+  - tkinter
+  - speech_recognition
+  - openai
+  - pygame
+  - langdetect
 
 ## Usage
 
